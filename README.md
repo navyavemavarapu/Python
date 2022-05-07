@@ -1,2 +1,2 @@
 # Python
-GUVI codekata python progrms
+GUVI codekata python projects
